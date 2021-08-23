@@ -1,1 +1,2 @@
-# Python-simple-analysis-code
+# Python-analysis-code
+Simple code for data visualisation
